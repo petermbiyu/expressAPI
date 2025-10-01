@@ -1,7 +1,15 @@
 {
   "name": "expressjs",
   "version": "1.0.0",
-  "description": "",
+  "description": "1. creating a server\r 2. sending status codes (200, 404)\r 3. setting headers\r 4. handling request/response\r 5. filtering data\r 6. extracting path/query params",
+  "homepage": "https://github.com/petermbiyu/expressAPI#readme",
+  "bugs": {
+    "url": "https://github.com/petermbiyu/expressAPI/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petermbiyu/expressAPI.git"
+  },
   "license": "ISC",
   "author": "peter mbiyu",
   "type": "module",
