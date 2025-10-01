@@ -10,7 +10,7 @@
 ## The request object
 
 - req.body = data from the request body
-- req.params - search params eg api/continent/country
+- req.params - search params eg api/:continent/:country
 - req.method - HTTP method eg POST, GET DELETE
 - req.ip - client's ip
 - req.query - query params eg api?name=peter&status=married
