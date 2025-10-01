@@ -7,6 +7,10 @@
 5. filtering data
 6. extracting path/query params
 
+## cors - cross origin resource sharing.
+
+- used to solve the issue of same-origin policy (same protocol, domain and port)
+
 ## The request object
 
 - req.body = data from the request body
